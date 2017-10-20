@@ -2,3 +2,6 @@
 
 (defn init []
   (.log js/console "Hello, GenArtRE!"))
+
+(comment
+ (print "Hello from REPL!"))
