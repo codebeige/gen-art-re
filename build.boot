@@ -9,6 +9,7 @@
                             [adzerk/boot-cljs        "2.1.4"  :scope "test"]
                             [adzerk/boot-cljs-repl   "0.3.3"  :scope "test"]
                             [adzerk/boot-reload      "0.5.2"  :scope "test"]
+                            [binaryage/devtools      "0.9.7"  :scope "test"]
                             [com.cemerick/piggieback "0.2.2"  :scope "test"]
                             [org.clojure/tools.nrepl "0.2.12" :scope "test"]
                             [pandeiro/boot-http      "0.8.3"  :scope "test"]
