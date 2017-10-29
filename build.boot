@@ -1,7 +1,7 @@
 (set-env! :resource-paths #{"resources"}
           :source-paths   #{"src"}
           :dependencies   '[[org.clojure/clojurescript "1.9.946"]
-                            [org.clojure/clojure "1.9.0-beta2" :scope "test"]
+                            [org.clojure/clojure "1.9.0-beta3" :scope "test"]
 
                             [re-frame "0.10.2"]
                             [reagent  "0.8.0-alpha2"]
@@ -11,8 +11,8 @@
                             [adzerk/boot-reload      "0.5.2"  :scope "test"]
                             [binaryage/devtools      "0.9.7"  :scope "test"]
                             [com.cemerick/piggieback "0.2.2"  :scope "test"]
-                            [day8.re-frame/trace     "0.1.7"  :scope "test"]
-                            [org.clojure/tools.nrepl "0.2.12" :scope "test"]
+                            [day8.re-frame/trace     "0.1.11" :scope "test"]
+                            [org.clojure/tools.nrepl "0.2.13" :scope "test"]
                             [pandeiro/boot-http      "0.8.3"  :scope "test"]
                             [weasel                  "0.7.0"  :scope "test"]]
           :exclusions     '[org.clojure/clojure
