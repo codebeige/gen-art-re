@@ -34,7 +34,10 @@
 }
 
 body {
+  margin: 0;
   font-family: Roboto, sans-serif;
+  font-size: 100%;
+  line-height: 1.2;
 }
 
 pre {

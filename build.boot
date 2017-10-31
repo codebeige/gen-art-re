@@ -3,6 +3,7 @@
           :dependencies   '[[org.clojure/clojurescript "1.9.946"]
                             [org.clojure/clojure "1.9.0-beta2" :scope "test"]
 
+                            [garden   "1.3.3"]
                             [re-frame "0.10.2"]
                             [reagent  "0.8.0-alpha2"]
 
